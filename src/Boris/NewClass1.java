@@ -17,4 +17,13 @@ public class NewClass1 {
     static String hola4;
     static String hola5;
     static String hola6;
+
+    static void hola() {
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("hola");
+
+    }
+
 }
