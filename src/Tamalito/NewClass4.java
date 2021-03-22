@@ -10,5 +10,6 @@ package Tamalito;
  * @author Boris
  */
 public class NewClass4 {
+    static String nombre;
     
 }
