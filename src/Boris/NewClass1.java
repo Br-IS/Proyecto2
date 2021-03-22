@@ -10,5 +10,11 @@ package Boris;
  * @author Boris
  */
 public class NewClass1 {
-    
+
+    static String hola;
+    static String hola1;
+    static String hola3;
+    static String hola4;
+    static String hola5;
+    static String hola6;
 }
