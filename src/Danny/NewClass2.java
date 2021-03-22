@@ -10,5 +10,7 @@ package Danny;
  * @author Boris
  */
 public class NewClass2 {
-    
+    public void mostrar(){
+        System.out.println("hola mundo");
+    }
 }
