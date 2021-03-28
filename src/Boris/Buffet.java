@@ -15,7 +15,7 @@ public class Buffet {
     private String ruc;
     private String direccion_buffet;
     private String telefono_buffet;
-
+    
     public Buffet() {
     }
 
