@@ -14,6 +14,9 @@ public class Roles {
     private String tipo_rol;
     private String descrip_rol;
 
+    public Roles() {
+    }
+
     public Roles(String cod_rol, String tipo_rol, String descrip_rol) {
         this.cod_rol = cod_rol;
         this.tipo_rol = tipo_rol;
